@@ -1,61 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ritika Pasari</h1>
-<h3 align="center">An AI & Data Science graduate passionate about Cloud, DevOps & Purpose-Driven Tech</h3>
+# Hi there! I'm Ritika Pasari 👋
+
+🎓 Final-year Artificial Intelligence & Data Science Engineer at Pune University  
+🛠️ Intern @ Worldline Global Services | Seed-Funded Innovator | Best Outgoing Student  
+💡 Passionate about building real-world impactful tech using AI, ML, Web & DevOps  
 
 ---
 
-- 🎓 I'm a final-year B.E. student in **Artificial Intelligence & Data Science** from Pune University  
-- 💼 Currently interning at **Worldline Global Services** (training in DevOps, CI/CD, .NET, AWS basics & Linux)  
-- 🧠 Actively learning **AWS**, **Cloud Infrastructure**, and **Automation tools**
-- 🛠️ I’ve worked on projects like **Krishi Sahay** (patent pending) and **Voice Assistant** for my college website  
-- 🌱 I’m passionate about using technology for social impact and sustainable solutions
+## 👩🏻‍💻 What I'm Working On:
+- Learning ASP.NET and C# (.NET training - L3 @ Worldline)
+- Building full-stack projects and strengthening system design skills
+- Exploring ethical AI frameworks, accessibility, and sustainable tech  
 
 ---
 
-### 💼 Projects I'm proud of
-
-- 🌾 **[Krishi Sahay](https://github.com/riti-1904/KrishiSahay)**  
-  ML-powered solution for sustainable agriculture with 98.29% crop prediction accuracy  
-
-- 🗣️ **[DYPCOE Voice Assistant](https://github.com/riti-1904/DYPCOE-VoiceAssistant)**  
-  Voice-enabled website navigation for improved accessibility  
-
-- 🧪 **More DevOps + Cloud Projects Coming Soon!**
-
----
-
-### 🧰 Languages and Tools I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-</p>
+## 🔧 Tech Stack & Tools
+**Languages:** C++, Python, SQL, C  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap  
+**Backend:** ASP.NET, REST APIs, Node basics  
+**Database:** MongoDB, MySQL, PostgreSQL  
+**Tools:** Git, GitHub, GitLab, Jenkins, SonarQube, VS Code, Visual Studio  
+**Cloud & DevOps:** AWS, CI/CD, Linux, Postman  
+**ML Libraries:** Pandas, NumPy, Scikit-learn, OpenCV, NLTK  
 
 ---
 
-### 📫 How to Reach Me
+## 🧠 Projects
+### 🌾 Krishi Sahay (Ongoing | Patent Pending)
+AI-based model for sustainable crop prediction  
+→ 98.29% accurate yield predictions  
+→ GIS-based insights | Chatroom for real-time agri communication  
+→ Tech Stack: Python, Streamlit, Meteorological APIs, Web + App
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ritika-pasari-225139225/)
-- 📧 [Email](mailto:pasarir1904@gmail.com)
-- 🌐 [GitHub](https://github.com/riti-1904)
-- 📸 [Instagram](https://www.instagram.com/agrawal_hriti/)
-
----
-
-### ✨ Fun Facts
-- 🏅 Awarded **Best Outgoing Student** at DYPCOE, Pune  
-- 💬 Ask me about: `AI`, `Data Science`, `DevOps`, `AWS`, `Cloud`, `Projects`, `Community Work`  
-- 🌟 I believe in: **Learning by doing** and **Tech for Good**
+### 🎙️ Audio Assistant for College Website
+Hands-free navigation using NLP + Speech APIs  
+→ Enhanced accessibility on institutional website  
+→ Tech Stack: HTML, CSS, JavaScript, SpeechRecognition
 
 ---
 
-⭐ *Thanks for visiting! Don’t forget to check out my projects and drop a ⭐ if you like them!*
+## 🏆 Highlights
+- 🏅 Best Outgoing Student @ DYPCOE Akurdi, Pune  
+- 💰 Secured Seed Funding for academic project  
+- 🥇 1st Prize @ Project Presentations (2023 & 2024) | Zonal Level Qualified  
+- 🧑🏻‍🏫 Class Representative for 4 years (2021–2025)  
+- 👩🏻‍💼 President @ IntellexAI, led 10+ events and 40+ members  
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/ritika-pasari-225139225/) | [Instagram](https://www.instagram.com/agrawal_hriti/) | [GitHub](https://github.com/riti-1904)  
+📧 Email: pasarir1904@gmail.com
+
+---
+
+## ⚡ Fun Fact
+Gamer by night 🎮, creator by day 🌞
 
