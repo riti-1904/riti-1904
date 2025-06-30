@@ -77,8 +77,20 @@ Voice-powered assistant for hands-free website navigation
 
 ---
 
-## ⚡ Fun Fact  
-> I believe **tech is the brush, and ideas are the canvas** 🎨  
-> When I’m not coding, you’ll find me sketching mandalas or editing videos!
+> ## ⚡ Fun Fact
+
+> 🎨 When I’m not writing code, I’m crafting **mandalas**, editing **videos**, or sketching creativity  
+> ☕ My brain runs on logic, imagination, and just the right amount of **caffeine**  
+> 🧠 I believe in the loop:
+> 
+> ```cpp
+> while(true) {
+>   learn(); 
+>   build(); 
+>   impact(); 
+> }
+> ```
+> 💫 Creativity in design meets **structure in code** — and that’s my happy place!
+
 
 
